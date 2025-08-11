@@ -49,7 +49,7 @@ Immagine:
 Inline:
 ` codice ` → `codice`
 
-Blocchi multilinea: ` ` `
+Blocchi multilinea: tre `
 ```linguaggio
 codice qui
 ```
@@ -60,9 +60,6 @@ Esempio:
 Puoi usare linguaggi specifici (python, java, bash, json, html, ecc.) per evidenziare la sintassi.
 
 📐 Tabelle
-markdown
-Copia
-Modifica
 | Nome     | Età |
 |----------|-----|
 | Marco    | 28  |
